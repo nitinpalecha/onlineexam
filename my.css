@@ -1,0 +1,22 @@
+body{
+      background-image:url("");
+	  background-color:;
+	  background-size:cover;
+	  color:white;
+	  font-family:bold;
+	  
+}
+*{
+	font-weight: bold;
+	color: black;
+	margin: 0px;
+}	
+footer{
+    background-color: cyan;
+    text-align: center;
+    width: 100%;
+    font-family: sans-serif;
+    bottom: 0;
+    position:sticky;
+}
+ 
